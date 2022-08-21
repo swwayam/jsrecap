@@ -45,7 +45,7 @@ const cars = ["Saab", "Volvo", "BMW","John", "Doe", 46];
 // const c1 = cars.filter(e => e.length > 3)
 
 // console.log(car)
-
+faldsfhsaldk
 // console.log(c1);
 
 const data = async() => {
